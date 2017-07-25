@@ -1,2 +1,2 @@
 # CSharpProject
-about c# test and demo
+About C# test and demo
